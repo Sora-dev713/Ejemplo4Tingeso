@@ -8,7 +8,7 @@ public class MensajeController {
 
     @GetMapping("/mensaje")
     public String Mensaje(){
-        return ("Aplicacion web muy simple");
+        return ("Buenas Tardes Usach");
     }
     
 }
